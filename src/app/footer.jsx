@@ -1,3 +1,4 @@
+import Footer from '@/ui/component/footer/Footer'
 import React from 'react'
 
 function footer() {
